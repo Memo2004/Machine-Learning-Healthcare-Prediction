@@ -10,7 +10,7 @@ import time
 image_path = Path(__file__).parent / "assets" / "image.webp"
 
 import os
-import pickle
+
 
 # ... (rest of your imports)
 
